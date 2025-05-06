@@ -1,0 +1,28 @@
+body{
+    background-color: aliceblue;
+    text-align: center;
+}
+form label{
+    font-size: xx-large;
+}
+button{
+    font-size: large;
+    border-radius: 30px;
+}
+input{
+    font-size: large;
+    border-radius: 10px;
+}
+h1.titulo{
+   font-size: 50px
+}
+p.texto{
+    font-size: 25px;
+}
+div{
+    background-color:lightsteelblue;
+    border-radius: 10px;
+    padding: 1cm;
+    max-width: calc(55% - 5cm);
+    margin:auto
+}
